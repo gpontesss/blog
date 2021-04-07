@@ -1,4 +1,4 @@
 ---
-heading: "Zathura"
-subheading: "A virtual Odyssey"
+heading: "zathura"
+subheading: "a virtual odyssey"
 ---
