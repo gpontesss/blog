@@ -12,7 +12,7 @@
             <h1 id="post__title">{{.Title}}</h1>
             {{ if .Date }}<time datetime="{{ .Date }}" class="post__date">{{ .Date.Format $dateFormat }}</time> {{ end }}
           </header>
-          <article class="post__content">
+          <article class="post__content justified" style="text-align: justify;">
               {{ partial "anchored-headings.html" .Content }}
               {{ if or .Params.math .Site.Params.math }}
                   {{ partial "math.html" . }}
