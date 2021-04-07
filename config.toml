@@ -4,7 +4,6 @@ theme = "hugo-theme-codex"
 title = "zathura"
 languageCode = "en-us"
 baseURL = "https://zathura.xyz/"
-copyright = "© {year}"
 
 # Add your Disqus shortname here.
 # disqusShortname = ""
