@@ -5,16 +5,12 @@ title = "zathura"
 languageCode = "en-us"
 baseURL = "https://zathura.xyz/"
 
-# Add your Disqus shortname here.
-# disqusShortname = ""
-
 # Optional params
 [params]
   # Follow the Hugo date/time format reference here:
   # https://gohugo.io/functions/format/#gos-layout-string
   dateFormat = "Jan 2 2006"
 
-  # Links to your social accounts, comment/uncomment as needed. Icons will be displayed for those specified.
   github = "https://github.com/gpontesss"
   instagram = "https://instagram.com/gpontesss"
   linkedin = "https://www.linkedin.com/in/gpontesss"
@@ -23,9 +19,6 @@ baseURL = "https://zathura.xyz/"
   # email = "mailto:<your email>"
   # gitlab = "https://gitlab.com/<your handle>"
 
-  # Titles for your icons (shown as tooltips), and also their display order.
-  # Currently, these icons are supported:
-  #   "Twitter", "GitHub", "Email", "Mastodon", "Facebook", "GitLab", "Instagram", "LinkedIn", "YouTube"
   iconOrder = ["GitHub", "LinkedIn", "RSS"]
 
   # Set to true to display page title in table of contents in blog posts.
