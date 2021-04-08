@@ -45,9 +45,9 @@ baseURL = "https://zathura.xyz/"
 
 # Controls the navigation
 [[menu.main]]
-  identifier = "wall"
-  name = "wall"
-  title = "Wall"
+  identifier = "home"
+  name = "home"
+  title = "Home"
   url = "/"
 
 [[menu.main]]
