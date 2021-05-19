@@ -2,8 +2,37 @@ theme = "hugo-theme-codex"
 
 # Override these settings with your own
 title = "zathura"
-languageCode = "en-us"
 baseURL = "https://zathura.xyz/"
+defaultContentLanguage = "en"
+
+[languages]
+    [languages.pt-br]
+        # Controls the navigation
+        [[languages.pt-br.menu.main]]
+          identifier = "home"
+          name = "início"
+          title = "Início"
+          url = "/pt-br/"
+
+        [[languages.pt-br.menu.main]]
+          identifier = "ideias"
+          name = "ideias"
+          title = "Ideias"
+          url = "/pt-br/thoughts"
+
+    [languages.en]
+        # Controls the navigation
+        [[languages.en.menu.main]]
+          identifier = "home"
+          name = "home"
+          title = "Home"
+          url = "/"
+
+        [[languages.en.menu.main]]
+          identifier = "thoughts"
+          name = "thoughts"
+          title = "Thoughts"
+          url = "/thoughts"
 
 # Optional params
 [params]
@@ -35,16 +64,3 @@ baseURL = "https://zathura.xyz/"
   # Set to false to disallow raw HTML in markdown files
   [markup.goldmark.renderer]
       unsafe = true
-
-# Controls the navigation
-[[menu.main]]
-  identifier = "home"
-  name = "home"
-  title = "Home"
-  url = "/"
-
-[[menu.main]]
-  identifier = "thoughts"
-  name = "thoughts"
-  title = "Thoughts"
-  url = "/thoughts"
