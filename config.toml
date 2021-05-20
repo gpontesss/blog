@@ -4,6 +4,7 @@ theme = "hugo-theme-codex"
 title = "zathura"
 baseURL = "https://zathura.xyz/"
 defaultContentLanguage = "en"
+defaultContentLanguageInSubdir = true
 
 [languages]
     [languages.pt-br]
@@ -13,12 +14,6 @@ defaultContentLanguage = "en"
           name = "início"
           title = "Início"
           url = "/pt-br/"
-
-        [[languages.pt-br.menu.main]]
-          identifier = "ideias"
-          name = "ideias"
-          title = "Ideias"
-          url = "/pt-br/thoughts"
 
         [[languages.pt-br.menu.main]]
           identifier = "poesia"
@@ -33,12 +28,6 @@ defaultContentLanguage = "en"
           name = "home"
           title = "Home"
           url = "/"
-
-        [[languages.en.menu.main]]
-          identifier = "thoughts"
-          name = "thoughts"
-          title = "Thoughts"
-          url = "/thoughts"
 
 # Optional params
 [params]
