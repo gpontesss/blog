@@ -20,6 +20,12 @@ defaultContentLanguage = "en"
           title = "Ideias"
           url = "/pt-br/thoughts"
 
+        [[languages.pt-br.menu.main]]
+          identifier = "poesia"
+          name = "poesia"
+          title = "Poesia"
+          url = "/pt-br/poetry"
+
     [languages.en]
         # Controls the navigation
         [[languages.en.menu.main]]
