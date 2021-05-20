@@ -3,7 +3,7 @@ theme = "hugo-theme-codex"
 # Override these settings with your own
 title = "zathura"
 baseURL = "https://zathura.xyz/"
-defaultContentLanguage = "en"
+defaultContentLanguage = "pt-br"
 defaultContentLanguageInSubdir = true
 
 [languages]
