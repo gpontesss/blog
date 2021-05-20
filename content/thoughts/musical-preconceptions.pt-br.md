@@ -7,7 +7,7 @@ keywords: ["musica", "preconcepcao"]
 draft: true
 tags: ["musica"]
 math: false
-toc: true
+toc: false
 ---
 
 Did you ever listen to a song and felt there was something off about it? Maybe
