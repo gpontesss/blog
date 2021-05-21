@@ -18,7 +18,7 @@
 
     {{ partial "social-icons.html" .}}
 
-    <select name="language-dropdown" id="language-dropdown">
+    <select class="lang-dropdown" name="language-dropdown" id="language-dropdown">
         {{ range $.Site.Home.AllTranslations }}
         <option value="{{ .Language }}"
             {{ if eq .Language $.Site.Language }} selected {{ end }}
