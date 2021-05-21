@@ -8,6 +8,8 @@ defaultContentLanguageInSubdir = true
 
 [languages]
     [languages.pt-br]
+        languageName = "Português"
+
         # Controls the navigation
         [[languages.pt-br.menu.main]]
           identifier = "home"
@@ -22,6 +24,8 @@ defaultContentLanguageInSubdir = true
           url = "/pt-br/poetry"
 
     [languages.en]
+        languageName = "English"
+
         # Controls the navigation
         [[languages.en.menu.main]]
           identifier = "home"
