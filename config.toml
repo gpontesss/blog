@@ -31,7 +31,7 @@ defaultContentLanguageInSubdir = true
           identifier = "home"
           name = "home"
           title = "Home"
-          url = "/"
+          url = "/en/"
 
 # Optional params
 [params]
