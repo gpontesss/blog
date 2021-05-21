@@ -3,25 +3,25 @@ theme = "hugo-theme-codex"
 # Override these settings with your own
 title = "zathura"
 baseURL = "https://zathura.xyz/"
-defaultContentLanguage = "pt-br"
+defaultContentLanguage = "pt"
 defaultContentLanguageInSubdir = true
 
 [languages]
-    [languages.pt-br]
+    [languages.pt]
         languageName = "Português"
 
         # Controls the navigation
-        [[languages.pt-br.menu.main]]
+        [[languages.pt.menu.main]]
           identifier = "home"
           name = "início"
           title = "Início"
-          url = "/pt-br/"
+          url = "/pt/"
 
-        [[languages.pt-br.menu.main]]
+        [[languages.pt.menu.main]]
           identifier = "poesia"
           name = "poesia"
           title = "Poesia"
-          url = "/pt-br/poetry"
+          url = "/pt/poetry"
 
     [languages.en]
         languageName = "English"
