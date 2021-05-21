@@ -9,6 +9,7 @@ defaultContentLanguageInSubdir = true
 [languages]
     [languages.pt]
         languageName = "Português"
+        contentDir = "content/pt"
 
         # Controls the navigation
         [[languages.pt.menu.main]]
@@ -25,6 +26,7 @@ defaultContentLanguageInSubdir = true
 
     [languages.en]
         languageName = "English"
+        contentDir = "content/en"
 
         # Controls the navigation
         [[languages.en.menu.main]]
