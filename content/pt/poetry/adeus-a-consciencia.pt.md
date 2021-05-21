@@ -62,7 +62,7 @@ que não se aventura em nenhuma reflexão, e acha justificação na própria vid
 absurdo para ele). É nesse excesso de consideração que vive a tormenta:
 
 > Juro-vos, senhores, que uma consciência muito perspicaz é uma doença, um
-> doença auntência, completa.
+> doença autência, completa.
 > [...] estou firmemente convencido de que não só uma dose muito grande de
 > consciência, mas qualquer consciência, é uma doença.  Insisto nisso.
 
@@ -116,4 +116,4 @@ deixo-o sem uma última citação que completa o que me vem em mente:
 > funcione, o seu coração está obscurecido pela perversão, e, sem um coração
 > puro, não pode haver consciência plena, correta.
 
-Que valor há na maior autoconsciência sem o mínimo de virtude?
+Que valor há na maior autoconsciência sem o mínimo de virtude e "vida viva"?
