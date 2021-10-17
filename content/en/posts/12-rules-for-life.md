@@ -1,7 +1,6 @@
 ---
 title: "12 Rules for Life"
 date: 2021-04-29T13:25:26-03:00
-draft: true
 slug: "12-rules-for-life"
 description: "My thoughts on Jordan Peterson's book '12 Rules for Life'"
 keywords: ["book", "jordan peterson"]

@@ -5,6 +5,7 @@ title = "zathura"
 baseURL = "https://zathura.xyz/"
 defaultContentLanguage = "pt"
 defaultContentLanguageInSubdir = true
+pagination = 10
 
 [languages]
     [languages.pt]
@@ -14,15 +15,18 @@ defaultContentLanguageInSubdir = true
         # Controls the navigation
         [[languages.pt.menu.main]]
           identifier = "home"
-          name = "início"
-          title = "Início"
+          name = "tudo"
+          title = "Tudo"
           url = "/pt/"
+          weight = 1
 
+        # Controls the navigation
         [[languages.pt.menu.main]]
-          identifier = "poesia"
-          name = "poesia"
-          title = "Poesia"
-          url = "/pt/poetry"
+          identifier = "tags"
+          name = "tags"
+          title = "Tags"
+          url = "/pt/tags/"
+          weight = 2
 
     [languages.en]
         languageName = "English"
@@ -31,9 +35,18 @@ defaultContentLanguageInSubdir = true
         # Controls the navigation
         [[languages.en.menu.main]]
           identifier = "home"
-          name = "home"
-          title = "Home"
+          name = "all"
+          title = "All"
           url = "/en/"
+          weight = 1
+
+        # Controls the navigation
+        [[languages.en.menu.main]]
+          identifier = "tags"
+          name = "tags"
+          title = "Tags"
+          url = "/pt/tags/"
+          weight = 2
 
 # Optional params
 [params]
@@ -43,6 +56,8 @@ defaultContentLanguageInSubdir = true
 
   # Set to true to display page title in table of contents in blog posts.
   showPageTitleInTOC = false
+
+  subtitle = "I think it's called a blog"
 
 [[params.social]]
 name = "Github"
@@ -54,15 +69,15 @@ name = "RSS"
 icon = "rss"
 url = "https://zathura.xyz/index.xml"
 
-[[params.social]]
-name = "YouTube"
-icon = "youtube"
-url = "https://www.youtube.com/channel/UCVMs7M4YAPA1hNEKLVnpvwA"
+# [[params.social]]
+# name = "YouTube"
+# icon = "youtube"
+# url = "https://www.youtube.com/channel/UCVMs7M4YAPA1hNEKLVnpvwA"
 
-[[params.social]]
-name = "Instagram"
-icon = "instagram"
-url = "https://instagram.com/gpontesss"
+# [[params.social]]
+# name = "Instagram"
+# icon = "instagram"
+# url = "https://instagram.com/gpontesss"
 
 [[params.social]]
 name = "LinkedIn"
@@ -80,3 +95,6 @@ url = "https://www.linkedin.com/in/gpontesss"
   # Set to false to disallow raw HTML in markdown files
   [markup.goldmark.renderer]
       unsafe = true
+
+[taxonomies]
+tag = "tags"
