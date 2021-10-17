@@ -1,4 +1,4 @@
-theme = "hugo-theme-codex"
+theme = "hugo-ink"
 
 # Override these settings with your own
 title = "zathura"
@@ -41,18 +41,33 @@ defaultContentLanguageInSubdir = true
   # https://gohugo.io/functions/format/#gos-layout-string
   dateFormat = "Jan 2 2006"
 
-  github = "https://github.com/gpontesss"
-  instagram = "https://instagram.com/gpontesss"
-  linkedin = "https://www.linkedin.com/in/gpontesss"
-  youtube = "https://www.youtube.com/channel/UCVMs7M4YAPA1hNEKLVnpvwA"
-  rss = "https://zathura.xyz/index.xml"
-  # email = "mailto:<your email>"
-  # gitlab = "https://gitlab.com/<your handle>"
-
-  iconOrder = ["GitHub", "LinkedIn", "RSS"]
-
   # Set to true to display page title in table of contents in blog posts.
   showPageTitleInTOC = false
+
+[[params.social]]
+name = "Github"
+icon = "github"
+url = "https://github.com/gpontesss"
+
+[[params.social]]
+name = "RSS"
+icon = "rss"
+url = "https://zathura.xyz/index.xml"
+
+[[params.social]]
+name = "YouTube"
+icon = "youtube"
+url = "https://www.youtube.com/channel/UCVMs7M4YAPA1hNEKLVnpvwA"
+
+[[params.social]]
+name = "Instagram"
+icon = "instagram"
+url = "https://instagram.com/gpontesss"
+
+[[params.social]]
+name = "LinkedIn"
+icon = "linkedin"
+url = "https://www.linkedin.com/in/gpontesss"
 
 # This disables Hugo's default syntax highlighting in favor
 # of prismjs. If you wish to use Hugo's default syntax highlighting
