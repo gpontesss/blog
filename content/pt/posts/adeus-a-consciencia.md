@@ -3,9 +3,9 @@ title: "Adeus à consciência"
 date: 2021-05-19T00:00:00-03:00
 slug: "adeus-a-consciencia"
 description: "A (in)certeza da razão cega."
-keywords: ["consciencia", "razao", "poesia", "dostoiévski"]
+keywords: ["consciência", "razão", "poesia", "dostoiévski"]
 draft: false
-tags: ["consciencia", "razao", "poesia", "dostoiévski"]
+tags: ["consciência", "razão", "poesia", "dostoiévski"]
 math: false
 toc: true
 ---
