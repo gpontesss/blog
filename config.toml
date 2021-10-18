@@ -1,7 +1,7 @@
 theme = "hugo-ink"
 
 # Override these settings with your own
-title = "zathura"
+title = "further up, further in"
 baseURL = "https://zathura.xyz/"
 defaultContentLanguage = "pt"
 defaultContentLanguageInSubdir = true
@@ -13,7 +13,7 @@ pagination = 10
         contentDir = "content/pt"
 
         [languages.pt.params]
-          subtitle = "Acho que se chama 'blog'"
+          subtitle = "Minha vida, e qualquer coisa de interessante nela"
 
         # ------------
         # social links
@@ -65,7 +65,7 @@ pagination = 10
         contentDir = "content/en"
 
         [languages.en.params]
-          subtitle = "I think it's called a 'blog'"
+          subtitle = "My life, and anything of interest in it"
 
         # ------------
         # social links
