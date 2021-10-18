@@ -109,7 +109,7 @@ pagination = 10
           identifier = "tags"
           name = "tags"
           title = "Tags"
-          url = "/pt/tags/"
+          url = "/en/tags/"
           weight = 2
 
 # Optional params
