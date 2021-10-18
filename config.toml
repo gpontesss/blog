@@ -2,7 +2,7 @@ theme = "hugo-ink"
 
 # Override these settings with your own
 title = "further up, further in"
-baseURL = "https://zathura.xyz/"
+baseURL = "https://gpontesss.xyz/"
 defaultContentLanguage = "pt"
 defaultContentLanguageInSubdir = true
 pagination = 10
