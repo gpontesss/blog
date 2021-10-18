@@ -15,6 +15,37 @@ pagination = 10
         [languages.pt.params]
           subtitle = "Acho que se chama 'blog'"
 
+        # ------------
+        # social links
+        # ------------
+        [[languages.pt.params.social]]
+          name = "RSS"
+          icon = "rss"
+          url = "https://zathura.xyz/pt/index.xml"
+
+        [[languages.pt.params.social]]
+          name = "Github"
+          icon = "github"
+          url = "https://github.com/gpontesss"
+
+        [[languages.pt.params.social]]
+          name = "LinkedIn"
+          icon = "linkedin"
+          url = "https://www.linkedin.com/in/gpontesss"
+
+        # [[languages.pt.params.social]]
+        # name = "YouTube"
+        # icon = "youtube"
+        # url = "https://www.youtube.com/channel/UCVMs7M4YAPA1hNEKLVnpvwA"
+
+        # [[languages.pt.params.social]]
+        # name = "Instagram"
+        # icon = "instagram"
+        # url = "https://instagram.com/gpontesss"
+
+        # ------------
+        # header links
+        # ------------
         [[languages.pt.menu.main]]
           identifier = "home"
           name = "tudo"
@@ -36,6 +67,37 @@ pagination = 10
         [languages.en.params]
           subtitle = "I think it's called a 'blog'"
 
+        # ------------
+        # social links
+        # ------------
+        [[languages.en.params.social]]
+          name = "RSS"
+          icon = "rss"
+          url = "https://zathura.xyz/en/index.xml"
+
+        [[languages.en.params.social]]
+          name = "Github"
+          icon = "github"
+          url = "https://github.com/gpontesss"
+
+        [[languages.en.params.social]]
+          name = "LinkedIn"
+          icon = "linkedin"
+          url = "https://www.linkedin.com/in/gpontesss"
+
+        # [[languages.pt.params.social]]
+        # name = "YouTube"
+        # icon = "youtube"
+        # url = "https://www.youtube.com/channel/UCVMs7M4YAPA1hNEKLVnpvwA"
+
+        # [[languages.pt.params.social]]
+        # name = "Instagram"
+        # icon = "instagram"
+        # url = "https://instagram.com/gpontesss"
+
+        # ------------
+        # header links
+        # ------------
         [[languages.en.menu.main]]
           identifier = "home"
           name = "all"
@@ -58,31 +120,6 @@ pagination = 10
 
   # Set to true to display page title in table of contents in blog posts.
   showPageTitleInTOC = false
-
-[[params.social]]
-name = "Github"
-icon = "github"
-url = "https://github.com/gpontesss"
-
-[[params.social]]
-name = "RSS"
-icon = "rss"
-url = "https://zathura.xyz/index.xml"
-
-# [[params.social]]
-# name = "YouTube"
-# icon = "youtube"
-# url = "https://www.youtube.com/channel/UCVMs7M4YAPA1hNEKLVnpvwA"
-
-# [[params.social]]
-# name = "Instagram"
-# icon = "instagram"
-# url = "https://instagram.com/gpontesss"
-
-[[params.social]]
-name = "LinkedIn"
-icon = "linkedin"
-url = "https://www.linkedin.com/in/gpontesss"
 
 # This disables Hugo's default syntax highlighting in favor
 # of prismjs. If you wish to use Hugo's default syntax highlighting
