@@ -13,7 +13,7 @@ pagination = 10
         contentDir = "content/pt"
 
         [languages.pt.params]
-          subtitle = "Minha vida, e qualquer coisa de interessante nela"
+          subtitle = "Minha vida, e qualquer coisa interessante nela"
 
         # ------------
         # social links
