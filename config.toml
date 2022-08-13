@@ -1,7 +1,8 @@
-theme = "hugo-ink"
+# theme = "hugo-ink"
+theme = "rework"
 
 # Override these settings with your own
-title = "further up, further in"
+title = "vertical ascension"
 baseURL = "https://gpontesss.xyz/"
 defaultContentLanguage = "pt"
 defaultContentLanguageInSubdir = true
@@ -13,7 +14,7 @@ pagination = 10
         contentDir = "content/pt"
 
         [languages.pt.params]
-          subtitle = "Minha vida, e qualquer coisa interessante nela"
+          subtitle = "A jornada da vida, através da minha perspectiva"
 
         # ------------
         # social links
@@ -54,18 +55,25 @@ pagination = 10
           weight = 1
 
         [[languages.pt.menu.main]]
+          identifier = "about"
+          name = "sobre"
+          title = "Sobre"
+          url = "/pt/about/"
+          weight = 2
+
+        [[languages.pt.menu.main]]
           identifier = "tags"
           name = "tags"
           title = "Tags"
           url = "/pt/tags/"
-          weight = 2
+          weight = 3
 
     [languages.en]
         languageName = "English"
         contentDir = "content/en"
 
         [languages.en.params]
-          subtitle = "My life, and anything of interest in it"
+          subtitle = "Life's journey, through my perspective"
 
         # ------------
         # social links
@@ -106,11 +114,18 @@ pagination = 10
           weight = 1
 
         [[languages.en.menu.main]]
+          identifier = "about"
+          name = "about"
+          title = "About"
+          url = "/en/about/"
+          weight = 2
+
+        [[languages.en.menu.main]]
           identifier = "tags"
           name = "tags"
           title = "Tags"
           url = "/en/tags/"
-          weight = 2
+          weight = 3
 
 # Optional params
 [params]

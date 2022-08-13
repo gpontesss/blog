@@ -1,0 +1,9 @@
+<div class="header">
+    <h1 class="title">{{ .Site.Title }}</h1>
+
+    <nav class="header-nav">
+    {{ range .Pages }}
+        <a href="">{{ .Title }}</a>
+    {{ end }}
+    </nav>
+</div>

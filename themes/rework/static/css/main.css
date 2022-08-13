@@ -1,0 +1,106 @@
+html {
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    padding: 0px;
+    margin: 0px;
+    font-family: "Merriweather", serif;
+    font-weight: 500;
+    text-align: justify;
+}
+
+.wrapper {
+    display: flex;
+    flex-direction: horizontal;
+    justify-content: center;
+    max-width: 1000px;
+    margin: auto;
+}
+
+.container {
+    padding: 100px;
+}
+
+.post-description {
+    font-size: 14px;
+}
+
+.content {
+    width: 100%;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: "KoHo";
+}
+
+.post {
+    padding: 20px;
+    border-bottom: solid 2px #dddddd;
+}
+.post a {
+    color: black;
+    text-decoration: none;
+}
+.post:hover {
+    background-color: #eeeeee;
+    color: #333333;
+}
+
+.post-title {
+    margin-top: 0px;
+    margin-bottom: 10px;
+}
+
+.post-description {
+    margin-bottom: 5px;
+}
+
+.post-info {
+    display: flex;
+    flex-direction: vertical;
+    justify-content: space-between; 
+    font-size: 12px;
+    color: #888888;
+}
+
+.post-keywords {
+    font-size: 10px;
+}
+
+
+.title {
+    font-size: 35px;
+    text-align: right;
+}
+
+.header {
+    margin: 0px;
+    padding-left: 50px;
+    padding-right: 50px;
+    max-width: 150px;
+}
+
+.header-nav {
+    border-top: solid 2px #dddddd;
+    border-bottom: solid 2px #dddddd;
+    padding: 15px;
+    text-align: right;
+}
+
+.header-nav a {
+    font-size: 18px;
+    color: black;
+    font-weight: 700;
+    text-decoration: none;
+    display: block;    
+    margin: 5px;
+}
+
+.header-nav a:hover {
+    color: grey;
+}
+
+
+/* TODO: collapse title to top when media is small enough. */
