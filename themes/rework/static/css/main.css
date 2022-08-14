@@ -170,5 +170,13 @@ h1, h2, h3, h4, h5, h6 {
     width: 20px;
 }
 
+.markdown blockquote {
+    font-style: italic;
+}
+
+.post-page-title {
+    font-size: 32px;
+}
+
 
 /* TODO: collapse title to top when media is small enough. */

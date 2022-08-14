@@ -7,13 +7,13 @@
 	<div class="container wrapper">
         {{ partial "head.html" . }}
 
-		<div class="content">
+		<article class="content">
             {{ range .Site.RegularPages }}
                 {{ partial "post-preview.html" . }}
             {{ end }}
-		</div>
+		</article>
 
-        {{ partial "social.html" . }}
+        <!-- {{ partial "social.html" . }} -->
 	</div>
 
 	<!-- {{ partial "footer.html" . }} -->

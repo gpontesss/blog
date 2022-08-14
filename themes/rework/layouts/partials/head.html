@@ -5,8 +5,8 @@
     </div>
 
     <nav class="header-nav">
-    {{ range .Pages }}
-        <a href="">{{ .Title }}</a>
-    {{ end }}
+    {{- range $index, $key := .Site.Menus.main -}}
+        <a href="{{ .URL }}">{{ .Name }}</a>
+    {{- end -}}
     </nav>
 </div>
