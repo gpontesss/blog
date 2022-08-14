@@ -103,4 +103,41 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 
+.icon {
+    position: relative;
+    margin: 25px;
+    width: 100px;
+    height: 100px;
+    border: solid black;
+    border-radius: 50%;
+}
+
+.icon-circle {
+    position: absolute;
+    height: 8%;
+    width: 8%;
+    background-color: black;
+    border-radius: 50%;
+}
+
+.icon-center-point {
+    top: calc(50% - 2%);
+    left: calc(50% - 3%);
+}
+
+.icon-bottom-point {
+    top: calc(100% - 2%);
+    left: calc(50% - 3%);
+}
+
+.icon-vertical-rule {
+    position: absolute;
+    top: 50%;
+    right: calc(50% - 2%);
+    background-color: black;
+    width: 2%;
+    height: 50%;
+}
+
+
 /* TODO: collapse title to top when media is small enough. */
