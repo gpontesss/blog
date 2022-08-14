@@ -81,7 +81,7 @@ pagination = 10
         [[languages.en.params.social]]
           name = "RSS"
           icon = "rss"
-          url = "https://zathura.xyz/en/index.xml"
+          url = "/en/index.xml"
 
         [[languages.en.params.social]]
           name = "Github"

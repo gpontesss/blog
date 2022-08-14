@@ -17,6 +17,7 @@ body {
     justify-content: center;
     max-width: 1000px;
     margin: auto;
+    align-items: flex-start;
 }
 
 .container {
@@ -75,6 +76,18 @@ h1, h2, h3, h4, h5, h6 {
     text-align: right;
 }
 
+.icon-title {
+    display: flex;
+    flex-direction: column;
+    justify-content: left; 
+    align-items: flex-end;
+}
+
+.icon-title a {
+    text-decoration: none;
+    color: black;
+}
+
 .header {
     margin: 0px;
     padding-left: 50px;
@@ -105,10 +118,9 @@ h1, h2, h3, h4, h5, h6 {
 
 .icon {
     position: relative;
-    margin: 25px;
     width: 100px;
     height: 100px;
-    border: solid black;
+    border: solid 2px black;
     border-radius: 50%;
 }
 
@@ -135,8 +147,27 @@ h1, h2, h3, h4, h5, h6 {
     top: 50%;
     right: calc(50% - 2%);
     background-color: black;
-    width: 2%;
+    width: 2px;
     height: 50%;
+}
+
+.social-bar {
+    padding: 5px;
+    margin: 0px 50px;
+    display: flex;
+    flex-direction: column;
+    /* border-left: solid 2px #dddddd; */
+    /* border-right: solid 2px #dddddd; */
+}
+
+.social-bar a {
+    color: black;
+    text-decoration: none;
+}
+
+.social-icon {
+    margin: 3px;
+    width: 20px;
 }
 
 

@@ -1,0 +1,7 @@
+<nav class="social-bar">
+{{- range $index, $key := .Site.Params.Social -}}
+    <a href="{{ $key.url }}">
+        <img class="social-icon" src="/svg/{{ $key.icon }}.svg" alt="{{ $key.name }}" />
+    </a>
+{{- end -}}
+</nav>
