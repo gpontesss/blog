@@ -1,10 +1,10 @@
 ---
-title: "Biblioteca"
+i18n_title: "library"
 layout: "clean"
 include_title: true
 ---
 
-## Teologia
+## {{< i18n "theology" >}}
 
 + Fr. Seraphim Rose --- The Soul After Death
 + Fr. Seraphim Rose --- Orthodoxy and the Religion of the Future
@@ -15,7 +15,7 @@ include_title: true
 + Raymond Franz --- Crisis of Conscience
 + Raymond Franz --- In Search of Christian Freedom
 
-## Filosofia
+## {{< i18n "philosophy" >}}
 
 + Wolgang Smith --- A Ascensão Vertical: Das Partículas ao Cosmos Tripartido e
     Além
@@ -23,7 +23,7 @@ include_title: true
 + Marco Aurélio --- Meditações
 + Theodore Kaczynski --- Industrial Society and its Future
 
-## Educação
+## {{< i18n "education" >}}
 
 + Miriam Joseph --- O Trivium: As Artes Liberais da Lógica, da Gramática e da
     Retórica
@@ -32,11 +32,11 @@ include_title: true
 + Hugo de São Vitor --- A Instrução dos Principiantes
 
 
-## História
+## {{< i18n "history" >}}
 
 + Jan Swafford --- A Linguagem do Espírito: Uma Introdução à Música Clássica
 
-## Literatura
+## {{< i18n "literature" >}}
 
 + Jane Austen --- Razão e Sensibilidade
 + Emily Brontë --- O Morro dos Ventos Uivantes

@@ -11,7 +11,6 @@ pagination = 10
 [languages]
     [languages.pt]
         languageName = "Português"
-        contentDir = "content/pt"
 
         [languages.pt.params]
           subtitle = "A jornada da vida, através da minha perspectiva"
@@ -54,12 +53,12 @@ pagination = 10
           url = "/pt/"
           weight = 1
 
-        [[languages.pt.menu.main]]
-          identifier = "about"
-          name = "sobre"
-          title = "Sobre"
-          url = "/pt/about/"
-          weight = 2
+        # [[languages.pt.menu.main]]
+        #   identifier = "about"
+        #   name = "sobre"
+        #   title = "Sobre"
+        #   url = "/pt/about/"
+        #   weight = 2
           
         [[languages.pt.menu.main]]
           identifier = "library"
@@ -77,7 +76,6 @@ pagination = 10
 
     [languages.en]
         languageName = "English"
-        contentDir = "content/en"
 
         idioms = "idioms"
         wordCount = "words"
@@ -122,12 +120,19 @@ pagination = 10
           url = "/en/"
           weight = 1
 
+        # [[languages.en.menu.main]]
+        #   identifier = "about"
+        #   name = "about"
+        #   title = "About"
+        #   url = "/en/about/"
+        #   weight = 2
+
         [[languages.en.menu.main]]
-          identifier = "about"
-          name = "about"
-          title = "About"
-          url = "/en/about/"
-          weight = 2
+          identifier = "library"
+          name = "library"
+          title = "Library"
+          url = "/en/library/"
+          weight = 3
 
         # [[languages.en.menu.main]]
         #   identifier = "tags"

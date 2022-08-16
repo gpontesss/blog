@@ -1,0 +1,12 @@
+theology:
+  other: "Theology"
+philosophy:
+  other: "Philosophy"
+education:
+  other: "Education"
+history:
+  other: "History"
+literature:
+  other: "Literature"
+library:
+  other: "Library"
