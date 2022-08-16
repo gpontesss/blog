@@ -4,13 +4,17 @@
         <a href="/{{ .Site.Language }}/"><h1 class="title">{{ .Site.Title }}</h1></a>
     </div>
 
+    <div class="header-lang-tags">
+        {{ partial "lang-tags.html" . }}
+    </div>
+
     <nav class="header-nav">
     {{- range $index, $key := .Site.Menus.main -}}
         <a href="{{ .URL }}">{{ .Name }}</a>
     {{- end -}}
     </nav>
     
-    <div style="border-bottom: solid 2px #dddddd">
-        {{ partial "lang-switch.html" . }}
-    </div>
+    <!-- <div style="border-bottom: solid 2px #dddddd"> -->
+    <!--     {{ partial "lang-switch.html" . }} -->
+    <!-- </div> -->
 </div>

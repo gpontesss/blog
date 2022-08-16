@@ -1,0 +1,9 @@
+<nav class="tags">
+{{range .Site.Languages}}
+    <a {{if ( eq . $.Site.Language ) }}
+            class="active-tag"
+        {{ else }}
+            href="/{{ . }}/"
+        {{ end }}> {{ . }}</a>
+{{end}}
+</nav>

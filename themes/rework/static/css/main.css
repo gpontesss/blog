@@ -258,11 +258,43 @@ h1, h2, h3, h4, h5, h6 {
 
 .dropdown li:hover {
     color: #444444;
-        background-color: #eeeeee;
+    background-color: #eeeeee;
 }
 
 .dropdown li::before {
     content: "";
+}
+
+.header-lang-tags {
+    margin: 10px 15px;
+    margin-top: 0px;
+}
+
+.tags {
+    display: flex;
+    flex-direction: horizontal;
+    justify-content: right;
+}
+
+.tags a {
+    font-size: 12px;
+    font-weight: bold;
+    text-decoration: none;
+    color: #444444;
+    border: solid 2px #dddddd;
+    padding: 1px 4px;
+    margin-left: 5px;
+    border-radius: 5px;
+}
+
+.tags a:hover, .active-tag {
+    color: black !important;
+    border-color: #aaaaaa !important;
+}
+
+.active-tag:hover {
+    color: #444444;
+    border: solid 2px #dddddd;
 }
 
 
