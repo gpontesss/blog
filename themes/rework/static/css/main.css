@@ -76,6 +76,11 @@ h1, h2, h3, h4, h5, h6 {
     text-align: right;
 }
 
+.title:hover {
+    cursor: pointer;
+    color: #555555;
+}
+
 .icon-title {
     display: flex;
     flex-direction: column;

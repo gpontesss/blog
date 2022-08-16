@@ -1,10 +1,8 @@
 ---
 title: "Biblioteca"
 layout: "clean"
-<!-- TODO: inlcude param in clean layout for title rendering -->
+include_title: true
 ---
-
-# Biblioteca
 
 ## Teologia
 
