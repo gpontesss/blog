@@ -10,39 +10,6 @@ math: false
 toc: true
 ---
 
-Xô, tchau;<br>
-Adeus, consciência<br>
-Permita-me ver<br>
-Sem tua onisciência.<br>
-
-Insuportável lesão,<br>
-Não te escapas perdão.<br>
-Não hás redenção,<br>
-À despóta ilusão,<br>
-Que te aturdes inteira.<br>
-
-Tens a verdade<br>
-Mais verdadeira?<br>
-Enorme vaidade;<br>
-Tamanha asneira!<br>
-
-Jazes, perdida,<br>
-Em eterna reflexão.<br>
-Em si absorta,<br>
-Não tens conclusão.<br>
-
-Sonho com o dia<br>
-Da minha libertação:<br>
-A vida sem razão.<br>
-Sucumbirei com veemência,<br>
-Sem lágrimas de tristeza,<br>
-À real existência.<br>
-
-Hei, então, de viver contente.<br>
-Darei graças ao estado ---<br>
-Que minha dor terá abafado ---<br>
-Benquisto estado inconsciente.<br>
-
 ## Motivação
 
 Há pouco tempo terminei de ler Memórias do Subsolo, do Dostoievsky. Não posso
@@ -118,3 +85,42 @@ deixo-o sem uma última citação que completa o que me vem em mente:
 > puro, não pode haver consciência plena, correta.
 
 Que valor há na maior autoconsciência sem o mínimo de virtude e "vida viva"?
+
+---
+
+Com isso, este é o poema:
+
+<div style="text-align: center">
+Xô, tchau;<br>
+Adeus, consciência<br>
+Permita-me ver<br>
+Sem tua onisciência.<br>
+
+Insuportável lesão,<br>
+Não te escapas perdão.<br>
+Não hás redenção,<br>
+À despóta ilusão,<br>
+Que te aturdes inteira.<br>
+
+Tens a verdade<br>
+Mais verdadeira?<br>
+Enorme vaidade;<br>
+Tamanha asneira!<br>
+
+Jazes, perdida,<br>
+Em eterna reflexão.<br>
+Em si absorta,<br>
+Não tens conclusão.<br>
+
+Sonho com o dia<br>
+Da minha libertação:<br>
+A vida sem razão.<br>
+Sucumbirei com veemência,<br>
+Sem lágrimas de tristeza,<br>
+À real existência.<br>
+
+Hei, então, de viver contente.<br>
+Darei graças ao estado ---<br>
+Que minha dor terá abafado ---<br>
+Benquisto estado inconsciente.<br>
+</div>

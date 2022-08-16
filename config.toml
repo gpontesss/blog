@@ -60,20 +60,26 @@ pagination = 10
           title = "Sobre"
           url = "/pt/about/"
           weight = 2
-
+          
         [[languages.pt.menu.main]]
-          identifier = "tags"
-          name = "tags"
-          title = "Tags"
-          url = "/pt/tags/"
+          identifier = "library"
+          name = "biblioteca"
+          title = "Biblioteca"
+          url = "/pt/library/"
           weight = 3
+
+        # [[languages.pt.menu.main]]
+        #   identifier = "tags"
+        #   name = "tags"
+        #   title = "Tags"
+        #   url = "/pt/tags/"
+        #   weight = 3
 
     [languages.en]
         languageName = "English"
         contentDir = "content/en"
 
         [languages.en.params]
-          subtitle = "Life's journey, through my perspective"
 
         # ------------
         # social links
@@ -120,12 +126,12 @@ pagination = 10
           url = "/en/about/"
           weight = 2
 
-        [[languages.en.menu.main]]
-          identifier = "tags"
-          name = "tags"
-          title = "Tags"
-          url = "/en/tags/"
-          weight = 3
+        # [[languages.en.menu.main]]
+        #   identifier = "tags"
+        #   name = "tags"
+        #   title = "Tags"
+        #   url = "/en/tags/"
+        #   weight = 3
 
 # Optional params
 [params]
@@ -135,8 +141,6 @@ pagination = 10
 
   # Set to true to display page title in table of contents in blog posts.
   showPageTitleInTOC = false
-
-  avatar = "/svg/lion.svg"
 
 # This disables Hugo's default syntax highlighting in favor
 # of prismjs. If you wish to use Hugo's default syntax highlighting

@@ -1,11 +1,20 @@
 <!DOCTYPE html>
+<!-- TODO: dark mode? -->
+{{ partial "header.html" . }}
+
 <html>
-    {{- partial "head.html" . -}}
-    <body>
-        {{- partial "header.html" . -}}
-        <div id="content">
-        {{- block "main" . }}{{- end }}
-        </div>
-        {{- partial "footer.html" . -}}
-    </body>
+<body>
+	<div class="container wrapper">
+        {{ partial "head.html" . }}
+
+		<article class="content markdown">
+            {{ block "main" . }}
+            {{ end }}
+		</article>
+
+        <!-- {{ partial "social.html" . }} -->
+	</div>
+
+	<!-- {{ partial "footer.html" . }} -->
+</body>
 </html>

@@ -1,27 +1,11 @@
-<!DOCTYPE html>
-<!-- TODO: dark mode? -->
-{{ partial "header.html" . }}
+{{ define "main" }}
+<h1 class="post-page-title">{{ .Title }}</h1>
+<div class="post-info">
+    <div>{{ .Date.Format "January 2, 2006" }}</div>
+    <div>({{ .WordCount }} words)</div>
+</div>
 
-<html>
-<body>
-	<div class="container wrapper">
-        {{ partial "head.html" . }}
-
-		<article class="content">
-            <h1 class="post-page-title">{{ .Title }}</h1>
-            <div class="post-info">
-                <div>{{ .Date.Format "January 2, 2006" }}</div>
-                <div>({{ .WordCount }} words)</div>
-            </div>
-
-            <div class="markdown">
-                {{ .Content }}
-            </div>
-		</article>
-
-        <!-- {{ partial "social.html" . }} -->
-	</div>
-
-	<!-- {{ partial "footer.html" . }} -->
-</body>
-</html>
+<div class="markdown">
+    {{ .Content }}
+</div>
+{{ end }}
