@@ -184,5 +184,81 @@ h1, h2, h3, h4, h5, h6 {
     font-family: "Roboto Slab", serif;
 }
 
+.dropdown {
+    /* font-family: "KoHo", serif; */
+    font-weight: 700;
+    position: relative;
+    margin: 15px;
+    /* border-bottom: solid 2px #dddddd; */
+}
+
+.dropdown span {
+    padding-bottom: 5px;
+    /* border-left: solid 2px #dddddd; */
+    display: block;
+    text-align: center;
+}
+
+.dropdown:hover {
+    cursor: pointer;
+}
+
+.dropdown ul {
+    display: none;
+    position: absolute;
+}
+
+.dropdown span:before {
+    content: "~ ";
+}
+
+.dropdown:hover ul {
+    display: block;
+}
+
+.dropdown:hover span {
+    color: #666666;
+}
+
+.dropdown:hover span:before {
+    content: "+ ";
+}
+
+.dropdown a {
+    text-decoration: none;
+    color: black;
+}
+
+.dropdown ul {
+    /* border-left: solid 2px #dddddd; */
+    /* border-right: solid 2px #dddddd; */
+    margin: 0px;
+    padding: 0px;
+    width: 100%;
+    /* padding: 6px 0px; */
+    /* border-left: solid 2px #dddddd; */
+    /* border-right: solid 2px #dddddd; */
+    /* border: solid 2px #dddddd; */
+}
+
+.dropdown-item {
+    /* width: 100%; */
+    list-style-type: none;
+    list-style: none;
+    padding: 5px 10px;
+    /* text-align: right; */
+    /* background-color: #ffffff99; */
+    background-color: #fafafa;
+}
+
+.dropdown li:hover {
+    color: #444444;
+        background-color: #eeeeee;
+}
+
+.dropdown li::before {
+    content: "";
+}
+
 
 /* TODO: collapse title to top when media is small enough. */

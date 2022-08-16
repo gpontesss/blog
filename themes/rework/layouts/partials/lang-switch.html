@@ -1,0 +1,9 @@
+<div class="dropdown">
+    <span>idiomas ({{ .Site.Language }})</span>
+    <ul>
+        {{ range .Site.Languages }}
+        <a href="/{{ . }}/"><li class="dropdown-item">{{ . }}</li></a>
+        {{ end }} 
+    </ul>
+</div>
+

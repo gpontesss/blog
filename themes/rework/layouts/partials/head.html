@@ -1,7 +1,7 @@
 <div class="header">
     <div class="icon-title">
         {{ partial "icon.html" . }}
-        <a href="{{ .Site.BaseURL }}"><h1 class="title">{{ .Site.Title }}</h1></a>
+        <a href="/{{ .Site.Language }}/"><h1 class="title">{{ .Site.Title }}</h1></a>
     </div>
 
     <nav class="header-nav">
@@ -9,4 +9,8 @@
         <a href="{{ .URL }}">{{ .Name }}</a>
     {{- end -}}
     </nav>
+    
+    <div style="border-bottom: solid 2px #dddddd">
+        {{ partial "lang-switch.html" . }}
+    </div>
 </div>
