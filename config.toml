@@ -79,6 +79,9 @@ pagination = 10
         languageName = "English"
         contentDir = "content/en"
 
+        idioms = "idioms"
+        wordCount = "words"
+
         [languages.en.params]
 
         # ------------
@@ -137,7 +140,7 @@ pagination = 10
 [params]
   # Follow the Hugo date/time format reference here:
   # https://gohugo.io/functions/format/#gos-layout-string
-  dateFormat = "Jan 2 2006"
+  dateFormat = "2006-02-01"
 
   # Set to true to display page title in table of contents in blog posts.
   showPageTitleInTOC = false

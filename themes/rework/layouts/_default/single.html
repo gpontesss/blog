@@ -1,8 +1,8 @@
 {{ define "main" }}
 <h1 class="post-page-title">{{ .Title }}</h1>
 <div class="post-info">
-    <div>{{ .Date.Format "January 2, 2006" }}</div>
-    <div>({{ .WordCount }} words)</div>
+    <div>{{ .Date.Format .Site.Params.dateFormat }}</div>
+    <div>({{ .WordCount }} {{ i18n "wordCount" }})</div>
 </div>
 
 <div class="markdown">
