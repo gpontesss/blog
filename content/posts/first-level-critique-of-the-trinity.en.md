@@ -1,11 +1,10 @@
 ---
- 
-title: "First Level Critique of the Trinity"
+title: "Basics of the doctrine of the Trinity"
 date: 2022-08-15T15:04:33-03:00
 slug: ""
 description: "Basics to know if you want to critique the historical doctrine."
 keywords: []
-draft: true
+draft: false
 tags: []
 math: false
 toc: false
@@ -35,11 +34,11 @@ being said only accounts for dishonesty, for there's no interest in truth,
 but only in disagreement. That said, I feel these are the main subjects to be
 understood:
 
-+ [How the word "God" is used]()
-+ [Issues discussed in the Council of Nicea]()
-+ [The nature of debate]()
-+ [Main questions that should be asked]()
-+ [In what way it is a Mystery]()
++ How the word "God" is used;
++ Issues discussed in the Council of Nicea;
++ The nature of debate;
++ Main questions that should be asked;
++ In what way it is a Mystery.
 
 
 ### How the word "God" is used
@@ -79,13 +78,49 @@ a coherent formulation of the nature and unity of Father, Son and Holy Spirit.
 
 ### Issues discussed in the Council of Nicea
 
-The second thing which most will say is that
+The Council of Nicea happened in response to the Arian controversy. Arius, a
+presbyter of Alexandria, thought that Christ was the first and greatest creation
+of the Father. The Council gathered bishops from all places to settle the
+question about Christ's nature.
 
-+ though other Christological debates exist, Nicea is the most important
-+ ignorant of the Nicene Creed and key assertions
-    + homoousios
-    + eternality
-    + created (notes on begotten)
+The Nicene Creed, which was formulated as the result of the Council, states:
+
+> We belive [...] in one Lord Jesus Christ, the Son of God, begotten of the
+> Father, Light of Light, very God of very God, begotten, not made,
+> consubstantial with the Father
+
+Notice that it states that Christ is "begotten of the Father", which clearly
+identifies that they are separate persons, something that some don't seem to
+understand. As said, the very issue was about Christ's nature: had He the _same_
+nature as the Father? (i.e., <span class="greek">"ὁμοούσιον"</span>.) Or was He
+--- as the Arians said --- of a _similar_ nature? (i.e., (i.e., <span
+class="greek">"ὁμοιούσιος"</span>.)) It's an interesting fact to note that
+Arians didn't have any issues on calling Christ God and worshiping Him. Their
+issue was with saying that Christ was Divine as the Father is. Thus, to condemn
+the Arians, the following clauses were included in the Nicene Creed:
+
+> But those who say: 'There was a time when he [the Son] was not'; and 'He was
+> not before he was made'; and 'He was made out of nothing', or 'He is of
+> another substance' or 'essence', or 'The Son of God is created', or
+> 'changeable', or 'alterable' --- they are condemned by the holy catholic and
+> apostolic Church.
+
+It makes the main points of discussion clear: Arians believed that Christ was
+"created", "made" and "of another substance" than that of the Father, while the
+pro-Nicene belived that Christ was eternal, begotten of the Father and of the
+consubstancial with Him.
+
+Another interesting fact is that the Nicene Creed says that Christ is "begotten"
+of the Father. Some try to use John 1:14 to say that Jesus was _created_ when,
+in fact, it says "only-begotten", which is not problem for trinitarians. A
+distinction is made by trinitarians: "begotten" only means that Christ is
+originated from the Father, i.e., He is "_ab alio_", which means "from another",
+while the Father is the only "_a se_" being, i.e., the only "originated from
+itself". For them, to say Christ was "created" means that Christ wasn't a
+necessary being. It is assumed that the Divine nature requires a being to be
+necessary. Thus, if Christ had the Divine nature, in no way He could be a
+creature. This is an important distinction to be made, since most don't
+understand the difference between having an origin and being created.
 
 ### Main questions that should be asked
 
@@ -167,54 +202,83 @@ explain questions beyond what is humanly capable.
 
 ### The nature of debate
 
-What has to be understood is that, first and foremost the doctrine is concerned
-with the special revelation contained in the Bible. All statements should be
-backed by Holy Scriptures, and not by personal preference.
+I think there are three important points that should be touched in a debate
+about the Trinity:
 
-+ The main critique is of the doctrine's coherence
-+ Though many might overlook it, the biblical evidence should be coherent with
-    it
-    + This is why Trinity models like Social Trinitarianism are invalid
-+ Though history shouldn't be the rule, it makes arguments strong
-    + Most second tier critiques say the doctrine was developed through the
-        centuries
-+ Historical facts that should be worth mentioning:
-    + Pre-Christian seeds of the doctrine
-    + Evidence on first Christians thought
-    + Anachronisms often come up: important to know how people defined things at
-        the time of discussion.
-+ Assertions that shouldn't be taken seriously:
-    + blaming of constantine
-    + pagan origins
+1. The evidence in the Holy Scriptures;
+1. The coherence of statements made;
+1. The historical background.
 
----
+First and foremost the doctrine is concerned with the special revelation
+contained in the Bible. This is an important detail to be observed for those who
+are looking for proving the faith as a whole. This might be overlooked by some
+for, you may have a coherent model that describes the Trinity, but it is not
+supported by Scriptures. (e.g., what I'd happens with Social Trinitarianism.)
+All statements should be backed by Holy Scriptures, and not by personal
+preference.
 
-Arguing that the Trinity has pagan origins is also not a good argument for two
-reasons: 1) to argue that something is not true for it has a certain origin is
-known as a "genetic fallacy", which states that something's origin has no
-bearing on weather it is true or not; 2) people assume the religion of the jews
-was totally different of the ones practiced by the sorrounding pagan nations,
-when, in reality, it had much more similarities than most would like to admit.
-Some of Psalms and other passages are also a direct response to stories about
-the by the gods of Israel's neighbors.[^3] Generally, they state why Yahweh, the
-Most High God, is Sovereign over all other gods, which assumes that some of the
-metaphysics is shared between the pagan religions and the religion believed and
-practiced by the jews of that time. That is not to say that everything that is
-said should be equal, but the overlapping is obvious. The most known example is
-the narrative of the Flood, which is present in a lot of ancient cultures. Even
-Plato talks about it! Of course, that's not to say that it requires no previous
-precedent for the doctrine in the OT and earlier periods before Christianity,
-but it should be recognized that it shouldn't be the strongest argument
-available.
+Where Scripture is not clear and interpretations can go either way, generally
+that's where philosophy comes in, for the main critique is about the doctrine's
+coherence. Thus, discussion on metaphysical concepts often become the focus of
+debate. When this is the case, I feel it's important to know two things that
+bear no weight in the truth value of the doctrine: 1) Its argued origin; 2) The
+moral status of people who formulated it.
+
+I'm trying to state the obvious, though these points might be missed by some: in
+a debate, the focus should be on formulating arguments to demonstrate why a
+position is coherent (in the case of the defense.) or incoherent. (in the case
+of the critique.) To argue that the Trinity has pagan origins is not a good
+argument for two reasons:
+
+1. To argue that something is not true for it has a certain origin is known as a
+   "genetic fallacy". The origin of a thing has no bearing on weather it is true
+   or not;
+1. People assume the religion of the jews was totally different of the ones
+   practiced by the sorrounding pagan nations, when, in reality, it had much
+   more similarities than most would like to admit. Some of Psalms and other
+   passages are also a direct response to stories about the gods of Israel's
+   neighbors.[^2] Generally, they state why Yahweh, the Most High God, is
+   Sovereign over all other gods, which assumes that some of the metaphysics is
+   shared between the pagan religions and the religion believed and practiced by
+   the jews of that time. That is not to say that everything that is said should
+   be equal, but the overlapping is obvious. The most known example is the
+   narrative of the Flood, which is present in a lot of ancient cultures. Even
+   Plato talks about it! Of course, that's not to say that it requires no
+   previous precedent for the doctrine in the OT and earlier periods before
+   Christianity, but it should be recognized that it shouldn't be the strongest
+   argument available.[^3]
+
+To argue against the doctrine, stating that people who formulated it were
+morally questionable is known as an "ad hominem" attack, which tries to diminish
+their credibility, though it shouldn't imply anything about the truth that they
+defend.
+
+Another point that should be noted is that anachronisms shouldn't be valid
+critiques, and attention must be paid to not commit this kind of mistake. To
+redefine old terms to carry comtemporary meanings is a misrepresentation of a
+position. Arguments should always care to use terms in their context, with their
+attributed meaning. This is important, for, sometimes, Church Fathers altered
+the meaning of common used terms to mean specific concepts.
+
+The last topic is history. Much is argued that the doctrine was developed in the
+4th century, and there was no precedent of it, neither in the pre-Christian
+period, which includes the OT period and the intertestamental period known as
+the "Second Temple period", nor in the first Christians' writtings, including
+those of the NT and those among the Apostolic Fathers. The subject is wide, and
+there's a lot of material to be considered in this area. Yet, it should be
+said that historical evidence is not necessarily proof of truth on the matter,
+since it's always possible to quote "heretics" etc. Nevertheless, it's strengh
+is in showing that the doctrine was not an inovation, but was always present in
+essence before it was formally stated.
 
 
 ## Resources for further investigation
 
 I only exposed the questions at stake superficially. Though it might seem a lot,
-there's much more to be explored about the subject, after all, it's been 15
-centuries since the first controversy which formally formulated the essence of
-the doctrine. These are some of the resources I've used to understand the
-doctrine and its nuances:[^2]
+there's much more to be explored about the subject --- after all, it's been more
+than 15 centuries since the first controversy which formally formulated the
+essence of the doctrine. These are some of the resources I've used to understand
+the doctrine and its nuances:[^4]
 
 + [Is Jesus God? Is God a Trinity? (Jay Dyer.)](https://www.youtube.com/watch?v=y_uBaARATqs)
 + [10 arguments against the Trinity refuted (Jay Dyer.)](https://www.youtube.com/watch?v=JnvX_lgZNWQ)
@@ -248,6 +312,29 @@ doctrine and its nuances:[^2]
   the historical doctrine of the Trinity. Though I ackowledge that the
   translation has received some criticism, it serves only to exemplify that
   trinitarians are aware of the different uses of the word.
-[^2]: Note that most sources are Orthodox for it is the only Church which
+[^4]: Note that most sources are Orthodox for it is the only Church which
   adheres completely to the first seven ecumenical councils.
-[^3]: Note on Psalms 25 and 82.
+[^2]: Psalms 24 is an example, where there's a response to the "Baal Cycle",
+  where it was said that he was the went to Sheol to go up against the gods Yam
+  and Nahar. The Psalm states that, even though Baal goes to the "heart of the
+  Earth", the entire Earth, and everything in it, belongs to the Most High God,
+  Yahweh. In the end it becomes even clearer that it's directed to Baal, for the
+  gates of Sheol are mentioned. This is also a reference to Christ's descent to
+  Hades --- the equivalent word for Sheol in Greek --- which is commented in the
+  NT. Baal is seen as Satan in the Bible, which is defeated by Christ after His
+  sacrifice. The Cycle tells an inverted story where Baal conquers the
+  underworld. This kind of inversion in relation with the Bible is what often
+  happens in the pagan versions of these stories. Psalm 82 is another example,
+  where the so-called "gods" are judged in the Divine Council by the Word of
+  Yahweh, which is Christ. These "gods" are the angels appointed to take care of
+  the nations in Deut. 32:8. They rebelled and went to pursue worship for
+  themselves. That's why they're judged and comdemned. There are other examples,
+  but these serve to show how the Bible itself ackowledges the existence of the
+  pagan gods and shares some of the metaphysics with their religion. (For more
+  information on these topics, I'd recommend Stephen De Young's book "Religion
+  of the Apostles" and the podcast "Lord of Spirits", of which he is a cohost.)
+[^3]: There are also interesting parallels between the worship in the OT and in
+  the pagan nations. Dr. Benjamin Sommer, a jew who has published things that
+  suggest the idea of a triune God is contained in the OT, has commented about
+  these simmilarities in the [episode "Does God Have a Body?" of the podcast
+  "The Bible for Normal People"](https://www.youtube.com/watch?v=7aFnRpNQFhI).
