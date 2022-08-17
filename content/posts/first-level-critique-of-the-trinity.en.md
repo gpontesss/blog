@@ -187,6 +187,26 @@ backed by Holy Scriptures, and not by personal preference.
     + blaming of constantine
     + pagan origins
 
+---
+
+Arguing that the Trinity has pagan origins is also not a good argument for two
+reasons: 1) to argue that something is not true for it has a certain origin is
+known as a "genetic fallacy", which states that something's origin has no
+bearing on weather it is true or not; 2) people assume the religion of the jews
+was totally different of the ones practiced by the sorrounding pagan nations,
+when, in reality, it had much more similarities than most would like to admit.
+Some of Psalms and other passages are also a direct response to stories about
+the by the gods of Israel's neighbors.[^3] Generally, they state why Yahweh, the
+Most High God, is Sovereign over all other gods, which assumes that some of the
+metaphysics is shared between the pagan religions and the religion believed and
+practiced by the jews of that time. That is not to say that everything that is
+said should be equal, but the overlapping is obvious. The most known example is
+the narrative of the Flood, which is present in a lot of ancient cultures. Even
+Plato talks about it! Of course, that's not to say that it requires no previous
+precedent for the doctrine in the OT and earlier periods before Christianity,
+but it should be recognized that it shouldn't be the strongest argument
+available.
+
 
 ## Resources for further investigation
 
@@ -230,3 +250,4 @@ doctrine and its nuances:[^2]
   trinitarians are aware of the different uses of the word.
 [^2]: Note that most sources are Orthodox for it is the only Church which
   adheres completely to the first seven ecumenical councils.
+[^3]: Note on Psalms 25 and 82.
