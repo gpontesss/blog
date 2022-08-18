@@ -10,6 +10,8 @@ math: false
 toc: false
 ---
 
+![trinity icon](/img/trinity-icon.jpg)
+
 Most critiques of the doctrine of the Trinity are superficial, for they don't
 know the reality of the doctrine. Generally they'll hear the basic doctrine
 formulated as such:
