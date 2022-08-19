@@ -303,6 +303,19 @@ h1, h2, h3, h4, h5, h6 {
     border: solid 2px #dddddd;
 }
 
+.header-nav-spacer {
+    display: none;
+    background-color: black;
+    width: 5px;
+    height: 5px;
+    border-radius: 50%;
+    margin: 0px 5px; 
+}
+
+.header-nav span:last-child {
+    display: none;
+}
+
 
 @media screen and (max-width: 1000px) {
     .wrapper {
@@ -343,6 +356,11 @@ h1, h2, h3, h4, h5, h6 {
     .header-nav {
         display: flex;
         padding: 5px 15px;
+        align-items: center;
+    }
+
+    .header-nav-spacer {
+        display: block;
     }
 }
 
