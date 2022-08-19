@@ -2,17 +2,18 @@
     <div class="icon-title">
         {{ partial "icon.html" . }}
         <a href="/{{ .Site.Language }}/"><h1 class="title">{{ .Site.Title }}</h1></a>
-    </div>
 
-    <div class="header-lang-tags">
-        {{ partial "lang-tags.html" . }}
+        <div class="header-lang-tags">
+            {{ partial "lang-tags.html" . }}
+        </div>
     </div>
 
     <nav class="header-nav">
     {{- range $index, $key := .Site.Menus.main -}}
-        <a href="{{ .URL }}">{{ .Name }}</a>
         <span class="header-nav-spacer"></span>
+        <a href="{{ .URL }}">{{ .Name }}</a>
     {{- end -}}
+
     </nav>
     
     <!-- <div style="border-bottom: solid 2px #dddddd"> -->
