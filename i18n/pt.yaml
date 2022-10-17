@@ -10,3 +10,7 @@ literature:
   other: "Literatura"
 library:
   other: "Biblioteca"
+biography:
+  other: "Biografia"
+literary-criticism:
+  other: "Crítica Literária"
