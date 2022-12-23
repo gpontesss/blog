@@ -1,8 +1,9 @@
 <div class="header">
     <div class="icon-title">
-        {{ partial "icon.html" . }}
-        <a href="/{{ .Site.Language }}/"><h1 class="title">{{ .Site.Title }}</h1></a>
-
+        <!-- {{ partial "icon.html" . }} -->
+        <a href="/{{ .Site.Language }}/">
+            <h1 class="title">{{ .Site.Title }}</h1>
+        </a>
         <div class="header-lang-tags">
             {{ partial "lang-tags.html" . }}
         </div>

@@ -75,6 +75,7 @@ h1, h2, h3, h4, h5, h6 {
 .title {
     font-size: 35px;
     text-align: right;
+    margin: 15px 0px;
 }
 
 .title:hover {
@@ -87,6 +88,8 @@ h1, h2, h3, h4, h5, h6 {
     flex-direction: column;
     justify-content: left; 
     align-items: flex-end;
+    padding-right: 15px;
+    padding-bottom: 15px;
 }
 
 .icon-title a {
@@ -271,10 +274,6 @@ h1, h2, h3, h4, h5, h6 {
     content: "";
 }
 
-.header-lang-tags {
-    margin: 10px 15px;
-    margin-top: 0px;
-}
 
 .tags {
     display: flex;

@@ -2,7 +2,7 @@
 theme = "rework"
 
 # Override these settings with your own
-title = "vertical ascension"
+title = "blog"
 baseURL = "https://gpontesss.xyz/"
 defaultContentLanguage = "pt"
 defaultContentLanguageInSubdir = true
