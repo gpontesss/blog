@@ -13,7 +13,6 @@ pagination = 10
         languageName = "Português"
 
         [languages.pt.params]
-          subtitle = "A jornada da vida, através da minha perspectiva"
 
         # ------------
         # social links
@@ -66,6 +65,13 @@ pagination = 10
           title = "Biblioteca"
           url = "/pt/library/"
           weight = 3
+
+        [[languages.pt.menu.main]]
+          identifier = "about"
+          name = "sobre"
+          title = "Sobre"
+          url = "/pt/about/"
+          weight = 4
 
         # [[languages.pt.menu.main]]
         #   identifier = "tags"
@@ -133,6 +139,13 @@ pagination = 10
           title = "Library"
           url = "/en/library/"
           weight = 3
+
+        [[languages.en.menu.main]]
+          identifier = "about"
+          name = "about"
+          title = "About"
+          url = "/en/about/"
+          weight = 4
 
         # [[languages.en.menu.main]]
         #   identifier = "tags"

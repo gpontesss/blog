@@ -186,8 +186,16 @@ h1, h2, h3, h4, h5, h6 {
     border-left: solid 2px #dddddd;
 }
 
-.markdown img {
+.markdown p img {
     width: 100%;
+}
+
+.profile-picture {
+    width: 150px;
+    height: 150px;
+    float: right;
+    border-radius: 50%;
+    padding: 0px 30px;
 }
 
 .post-page-title {
