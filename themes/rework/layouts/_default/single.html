@@ -1,7 +1,7 @@
 {{ define "main" }}
 <h1 class="post-page-title">{{ .Title }}</h1>
 <div class="post-info">
-    <div>{{ .Date.Format .Site.Params.dateFormat }}</div>
+    <div>{{ time.Format .Site.Params.dateFormat .Date | strings.FirstUpper }}</div>
     <div>({{ .WordCount }} {{ i18n "wordCount" }})</div>
 </div>
 

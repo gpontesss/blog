@@ -5,7 +5,7 @@
         <!-- TODO: include keywords? -->
         <div class="post-info">
             <div>({{ .WordCount }} {{ i18n "wordCount" }})</div>
-            <div>{{ .Date.Format .Site.Params.dateFormat }}</div>
+            <div>{{ time.Format .Site.Params.dateFormat .Date | strings.FirstUpper }}</div>
         </div>
         
         <div class="post-keywords">

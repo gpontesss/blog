@@ -158,7 +158,7 @@ pagination = 10
 [params]
   # Follow the Hugo date/time format reference here:
   # https://gohugo.io/functions/format/#gos-layout-string
-  dateFormat = "2006-02-01"
+  dateFormat = "January 2, 2006"
 
   # Set to true to display page title in table of contents in blog posts.
   showPageTitleInTOC = false
