@@ -3,11 +3,5 @@
         <h3 class="post-title">{{ .Title }}</h3>
         <div class="post-description">{{ .Description }}</div>
     </a>
-    <div class="post-info">
-        <!-- <div>({{ .WordCount }} {{ i18n "wordCount" }})</div> -->
-        <div class="post-keywords tags">
-            {{ range .Params.tags }}<a class="post-tag" href="/{{ $.Site.Language }}/tags/{{ . }}">{{ . }}</a>{{ end }}
-        </div>
-        <div>{{ time.Format .Site.Params.dateFormat .Date | strings.FirstUpper }}</div>
-    </div>
+    {{ partial  "post-info.html" . }}
 </div>
