@@ -3,9 +3,9 @@ title: "Basics of the doctrine of the Trinity"
 date: 2022-08-15T15:04:33-03:00
 slug: ""
 description: "Basics to know if you want to critique the historical doctrine."
-keywords: []
+keywords: ["trinity", "metaphysics"]
 draft: false
-tags: []
+tags: ["trinity", "metaphysics"]
 math: false
 toc: false
 ---

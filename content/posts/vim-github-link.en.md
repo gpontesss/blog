@@ -3,7 +3,6 @@ title: "Getting GitHub links to a project in vim"
 date: 2023-02-02T18:50:55-03:00
 slug: "vim-github-link"
 description: "A little tutorial on how to use vimscript."
-keywords: []
 draft: false
 tags: ["vim", "github"]
 math: false

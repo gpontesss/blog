@@ -51,34 +51,27 @@ pagination = 10
           title = "Tudo"
           url = "/pt/"
           weight = 1
-
-        # [[languages.pt.menu.main]]
-        #   identifier = "about"
-        #   name = "sobre"
-        #   title = "Sobre"
-        #   url = "/pt/about/"
-        #   weight = 2
           
         [[languages.pt.menu.main]]
           identifier = "library"
           name = "biblioteca"
           title = "Biblioteca"
           url = "/pt/library/"
-          weight = 3
+          weight = 2
 
         [[languages.pt.menu.main]]
           identifier = "about"
           name = "sobre"
           title = "Sobre"
           url = "/pt/about/"
-          weight = 4
+          weight = 3
 
-        # [[languages.pt.menu.main]]
-        #   identifier = "tags"
-        #   name = "tags"
-        #   title = "Tags"
-        #   url = "/pt/tags/"
-        #   weight = 3
+        [[languages.pt.menu.main]]
+          identifier = "tags"
+          name = "tags"
+          title = "Tags"
+          url = "/pt/tags/"
+          weight = 4
 
     [languages.en]
         languageName = "English"
@@ -126,33 +119,26 @@ pagination = 10
           url = "/en/"
           weight = 1
 
-        # [[languages.en.menu.main]]
-        #   identifier = "about"
-        #   name = "about"
-        #   title = "About"
-        #   url = "/en/about/"
-        #   weight = 2
-
         [[languages.en.menu.main]]
           identifier = "library"
           name = "library"
           title = "Library"
           url = "/en/library/"
-          weight = 3
+          weight = 2
 
         [[languages.en.menu.main]]
           identifier = "about"
           name = "about"
           title = "About"
           url = "/en/about/"
-          weight = 4
+          weight = 3
 
-        # [[languages.en.menu.main]]
-        #   identifier = "tags"
-        #   name = "tags"
-        #   title = "Tags"
-        #   url = "/en/tags/"
-        #   weight = 3
+        [[languages.en.menu.main]]
+          identifier = "tags"
+          name = "tags"
+          title = "Tags"
+          url = "/en/tags/"
+          weight = 4
 
 # Optional params
 [params]

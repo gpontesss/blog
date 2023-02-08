@@ -1,0 +1,16 @@
+{{ define "main" }}
+{{ if isset .Data "Term" }}
+	<h1 class="post-page-title">{{ .Data.Term }}</h1>
+{{ else }}
+    <h1 class="post-page-title">{{ .Name }}</h1>
+{{ end }}
+
+<div class="markdown">
+    <ul>
+    {{ range .Data.Pages }}
+        <li><a href="{{ .Title }}/">{{ .Title }}</a></li>
+    {{ end }}
+    </ul>
+</div>
+
+{{ end }}

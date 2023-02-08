@@ -288,23 +288,43 @@ h1, h2, h3, h4, h5, h6 {
 .tags {
     display: flex;
     flex-direction: horizontal;
-    justify-content: right;
 }
 
 .tags a {
-    font-size: 12px;
     font-weight: bold;
     text-decoration: none;
     color: #444444;
-    border: solid 2px #dddddd;
     padding: 1px 4px;
     margin-left: 5px;
     border-radius: 5px;
 }
 
+.lang-tag {
+    border: solid 2px #dddddd;
+}
+
+.lang-tags {
+    font-size: 12px;
+    justify-content: right;
+}
+
+.post-keywords {
+    /* padding: 8px 0px; */
+    justify-content: right;
+}
+
+.post-tag {
+    border: solid 1px #dddddd;
+}
+
+.post-keywords a:first-child {
+    margin: 0px;
+}
+
 .tags a:hover, .active-tag {
     color: black !important;
     border-color: #aaaaaa !important;
+    cursor: pointer;
 }
 
 .active-tag:hover {

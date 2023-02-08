@@ -1,0 +1,12 @@
+{{ define "main" }}
+<h1 class="post-page-title">tag: {{ .Title }}</h1>
+
+<div class="markdown">
+    {{ with (.Site.GetPage .Title) }}
+        {{ range .Pages }}
+            {{ partial "post-preview.html" . }}
+        {{ end }}
+    {{ end }}
+</div>
+
+{{ end }}

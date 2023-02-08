@@ -1,9 +1,6 @@
-<nav class="tags">
+<nav class="tags lang-tags">
 {{range .Site.Languages}}
-    <a {{if ( eq . $.Site.Language ) }}
-            class="active-tag"
-        {{ else }}
-            href="/{{ . }}/"
-        {{ end }}> {{ . }}</a>
+    <a class="lang-tag {{if ( eq . $.Site.Language ) }} active-tag{{ end }}"
+            href="/{{ . }}/"> {{ . }}</a>
 {{end}}
 </nav>
