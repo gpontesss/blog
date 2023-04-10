@@ -4,7 +4,7 @@ date: 2021-05-19T00:00:00-03:00
 slug: "adeus-a-consciencia"
 description: "A (in)certeza da razão cega."
 keywords: ["consciência", "razão", "dostoiévski"]
-draft: false
+draft: true
 tags: ["consciência", "razão", "dostoiévski"]
 math: false
 toc: true
