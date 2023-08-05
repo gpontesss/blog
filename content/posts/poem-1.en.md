@@ -24,7 +24,7 @@ Leads one into captivity.<br>
 As attached to a harness<br>
 Even dragged to profanity.<br>
 
-And, thus, lies the mystery:<br>
+And, thus, lies the mystery,<br>
 The dycothomy of the element:<br>
 The same uncovers Beauty<br>
 And burns with its temperament.<br>

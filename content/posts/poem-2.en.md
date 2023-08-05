@@ -21,7 +21,7 @@ Did stir entire thoughts<br>
 To unveil what I could not:<br>
 The union of seen and unseen<br>
 
-It's shining is grace-filled<br>
+Its shining is grace-filled<br>
 Attracts all those around<br>
 But fooled was I in the crowd<br>
 Knowing not it was owned<br>
