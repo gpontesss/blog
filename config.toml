@@ -3,7 +3,7 @@ theme = "rework"
 
 # Override these settings with your own
 title = "blog"
-baseURL = "https://gpontesss.xyz/"
+baseURL = "https://gpontesss.com/"
 defaultContentLanguage = "pt"
 defaultContentLanguageInSubdir = true
 pagination = 10
@@ -20,7 +20,7 @@ pagination = 10
         [[languages.pt.params.social]]
           name = "RSS"
           icon = "rss"
-          url = "https://zathura.xyz/pt/index.xml"
+          url = "https://gpontesss.com/pt/index.xml"
 
         [[languages.pt.params.social]]
           name = "Github"
