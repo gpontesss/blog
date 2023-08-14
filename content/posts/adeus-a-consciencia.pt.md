@@ -4,8 +4,8 @@ date: 2021-05-19T00:00:00-03:00
 slug: "adeus-a-consciencia"
 description: "A (in)certeza da razão cega."
 keywords: ["consciência", "razão", "dostoiévski"]
-draft: true
-tags: ["consciência", "razão", "dostoiévski"]
+draft: though
+tags: ["dostoiévski", "poesia"]
 math: false
 toc: true
 ---
@@ -91,36 +91,25 @@ Que valor há na maior autoconsciência sem o mínimo de virtude e "vida viva"?
 Com isso, este é o poema:
 
 <div style="text-align: center">
-Xô, tchau;<br>
-Adeus, consciência<br>
-Permita-me ver<br>
-Sem tua onisciência.<br>
+Deixa-me logo, consciência<br>
+Livra-me da tua onisciência!<br>
 
-Insuportável lesão,<br>
-Não te escapas perdão.<br>
-Não hás redenção,<br>
-À despóta ilusão,<br>
-Que te aturdes inteira.<br>
+Insuportável lesão, não te escapas perdão<br>
+Não hás redenção, à despóta ilusão<br>
+Que te aturdes inteira<br>
 
-Tens a verdade<br>
-Mais verdadeira?<br>
-Enorme vaidade;<br>
-Tamanha asneira!<br>
+Tens a verdade mais derradeira?<br>
+Enorme vaidade; tamanha asneira!<br>
+Jazes, perdida, em eterna reflexão<br>
+Em si absorta, não tens conclusão<br>
 
-Jazes, perdida,<br>
-Em eterna reflexão.<br>
-Em si absorta,<br>
-Não tens conclusão.<br>
+Sonho com a libertação da razão<br>
+Sucumbirei com veemência<br>
+Sem lágrimas de tristeza<br>
+Então, à real existência<br>
 
-Sonho com o dia<br>
-Da minha libertação:<br>
-A vida sem razão.<br>
-Sucumbirei com veemência,<br>
-Sem lágrimas de tristeza,<br>
-À real existência.<br>
-
-Hei, então, de viver contente.<br>
-Darei graças ao estado ---<br>
-Que minha dor terá abafado ---<br>
-Benquisto estado inconsciente.<br>
+Hei de viver contente<br>
+Darei graças ao estado<br>
+Que minha dor tem abafado<br>
+Vivo estado inconsciente<br>
 </div>

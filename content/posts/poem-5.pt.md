@@ -1,6 +1,6 @@
 ---
 title: "Poema 5"
-date: 2023-08-14T20:00:25-03:00
+date: 2023-08-14T20:54:54-03:00
 slug: ""
 description: "Ah, cotovia! Teu piado / Que vaticínio tens levado? ..."
 keywords: ["poesia"]
@@ -27,5 +27,5 @@ Mas em verdade és visão;<br>
 Portento da ressurreição<br>
 
 Que tua graça seja guia<br>
-Fonte de paz, pura, infinda...<br>
+Fonte de paz pura, infinda...<br>
 </div>
