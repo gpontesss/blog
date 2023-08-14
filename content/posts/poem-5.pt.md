@@ -10,6 +10,8 @@ math: false
 toc: false
 ---
 
+![lark](/img/lark.jpeg)
+
 <div style="text-align: center">
 Ah, cotovia! Teu piado<br>
 Que vaticínio tens levado?<br>
