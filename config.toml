@@ -3,7 +3,6 @@ theme = "rework"
 
 # Override these settings with your own
 title = "blog"
-baseURL = "https://gpontesss.com/"
 defaultContentLanguage = "pt"
 defaultContentLanguageInSubdir = true
 pagination = 10
