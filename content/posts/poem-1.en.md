@@ -37,5 +37,5 @@ And this he's yet to grasp.<br>
 Only one discerment is made:<br>
 Fire exists in various shapes.<br>
 And this no man mistakes:<br>
-Its perennial form is a maid.<br>
+Its human form is a maid.<br>
 </div>

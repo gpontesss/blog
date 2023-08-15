@@ -2,7 +2,7 @@
 title: "Poema 4"
 date: 2023-08-14T20:00:25-03:00
 slug: ""
-description: "Deitado no escuro sereno, eu / Inerte naquilo que me abateu ..."
+description: "Deitado no contemplativo breu / Inerte naquilo que me abateu ..."
 keywords: ["poesia"]
 draft: false
 tags: ["poesia"]
@@ -24,6 +24,6 @@ Nem mesmo conheço-a para amar-lhe<br>
 Sentido não há para o que sinto<br>
 
 Tantas perguntas faço ao olhar-te<br>
-De como preencher esse abismo<br>
+Sobre como preencher o abismo<br>
 Que meu coração tem feito em partes<br>
 </div>

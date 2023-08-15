@@ -2,7 +2,7 @@
 title: "Poema 3"
 date: 2023-08-04T22:30:43-03:00
 slug: ""
-description: "Meu coração paralisou / Hipnotizante qual semblante ..."
+description: "Tua visão manisfestou-se / Hipnotizante qual semblante ..."
 keywords: ["poesia"]
 draft: false
 tags: ["poesia"]
