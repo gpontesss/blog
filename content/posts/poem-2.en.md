@@ -1,5 +1,5 @@
 ---
-title: "Poem 2"
+title: "Light"
 date: 2023-04-10T16:00:33-03:00
 slug: ""
 description: "The Light has caught my eye..."
